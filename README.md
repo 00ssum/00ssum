@@ -15,4 +15,4 @@ SSVEP와 ERP를 사용한 슈팅 게임
 
 - 2021_summer: 상생플러스
 
-- 2021_summer: Medical HACK 2021
+- [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
