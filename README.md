@@ -13,6 +13,6 @@ SSVEP와 ERP를 사용한 슈팅 게임
 - [2021_1: 상생플러스](https://github.com/youngseo0526/FingerBeam)
 공중에서 필기, 저장 기능을 제공하는 시스템
 
-- 2021_summer: 상생플러스
+- [2021_summer: 상생플러스](https://github.com/youngseo0526/Ganchanah)
 
 - [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
