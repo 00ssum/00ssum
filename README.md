@@ -14,5 +14,7 @@ SSVEP와 ERP를 사용한 슈팅 게임
 공중에서 필기, 저장 기능을 제공하는 시스템
 
 - [2021_summer: 상생플러스](https://github.com/youngseo0526/Ganchanah)
+gan을 이용해 직접 찍은 일상 사진을 유명 고전 화가 화풍으로 변환시키는 시스템
 
 - [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
+청각장애인을 위한 통역 
