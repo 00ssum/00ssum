@@ -17,7 +17,7 @@ SSVEP와 ERP를 사용한 슈팅 게임
 gan을 이용해 직접 찍은 일상 사진을 유명 고전 화가 화풍으로 변환시키는 시스템
 
 - [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
-청각장애인을 위한 통역 
+딥러닝을 이용한 청각장애인을 위한 수어 번역 어플리케이션
 
 - [2021_2: 기계학습](https://github.com/An-Byeong-Seon/machine_learning)
 random forest를 이용한 당근마켓 중고가 추천
