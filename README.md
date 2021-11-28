@@ -18,3 +18,9 @@ gan을 이용해 직접 찍은 일상 사진을 유명 고전 화가 화풍으�
 
 - [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
 청각장애인을 위한 통역 
+
+- [2021_2: 기계학습](https://github.com/An-Byeong-Seon/machine_learning)
+random forest를 이용한 당근마켓 중고가 추천
+
+- [2021_1: 자연어처리](https://github.com/hyunjoolee201910828/NLP_teamproject)
+NLP기술을 이용해 묘사글로 실종차 찾기
