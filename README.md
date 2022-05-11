@@ -2,7 +2,7 @@
 
 ### **project**
 - [2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS)
-사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스
+ recognition을 이용한 품목별 택배 운송 패킹 전략 추천 서비스
 
 - [2021_1: 심층학습](https://github.com/ubeeni/sk_labs)
 Facial semantic segmentation 기술을 이용한 맞춤 키오스크 서비스
@@ -11,19 +11,19 @@ Facial semantic segmentation 기술을 이용한 맞춤 키오스크 서비스
 SSVEP와 ERP를 사용한 슈팅 게임
 
 - [2021_1: 상생플러스](https://github.com/youngseo0526/FingerBeam)
-공중에서 필기, 저장 기능을 제공하는 시스템
+Detection 기술을 이용한 공중에서 필기, 저장 기능을 제공하는 시스템
 
 - [2021_summer: 상생플러스](https://github.com/youngseo0526/Ganchanah)
-gan을 이용해 직접 찍은 일상 사진을 유명 고전 화가 화풍으로 변환시키는 시스템
+gan을 이용해 일상 사진을 유명 고전 화가 화풍으로 변환시키는 시스템
 
 - [2021_summer: Medical HACK 2021](https://github.com/FEKimseongeun/NoonSokMal)
-딥러닝을 이용한 청각장애인을 위한 수어 번역 어플리케이션
+Deep Learning을 이용한 청각장애인을 위한 수어 번역 어플리케이션
 
 - [2021_2: 기계학습](https://github.com/An-Byeong-Seon/machine_learning)
-random forest를 이용한 당근마켓 중고가 추천
+Random Forest를 이용한 당근마켓 중고가 추천
 
 - [2021_2: 자연어처리](https://github.com/hyunjoolee201910828/NLP_teamproject)
-NLP기술을 이용해 묘사글로 실종 찾기
+NLP기술을 이용해 묘사글로 실종자 찾기
 
 - [2021_2: 바이오시스템](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals)
 생체신호를 이용한 대면과 비대면 미팅의 효율성 분석 모델
