@@ -13,7 +13,7 @@
 
 - tools
 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/>
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
