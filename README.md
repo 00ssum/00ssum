@@ -2,8 +2,10 @@
 ## "Hello, world!" My name is **SSUM**:sparkling_heart:
 
 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀
+
 I have experience many project of AI development.
 
+---
 ### **⚒ Skill**
 ##### language 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
