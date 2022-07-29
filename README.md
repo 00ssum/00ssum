@@ -27,3 +27,13 @@ NLP기술을 이용해 묘사글로 실종자 찾기
 
 - [2021_2: 바이오시스템](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals)
 생체신호를 이용한 대면과 비대면 미팅의 효율성 분석 모델
+
+- [2022_1: 캡스톤 디자인](https://github.com/polyn0/Speech2Action)
+대본을 이용해 대규모의 레이블링 되지 않은 비디오에서 action recognition task에 적용 할 수 있는 데이터 셋을 automatically 하게 얻는 모델
+
+- [2022_1: 소셜 인공지능](https://github.com/polyn0/Speech2Action)
+1. Learning with Opponent-Learning Awareness (LOLA)
+2. Context Based Emotion Recognition using EMOTIC Dataset 
+
+- [2021_summer: SMU-KT AI project](https://github.com/00ssum/KT-SMU-AI-project)
+AI를 이용해 유기동물 실시간 모니터링 데이터베이스 구축 및 원인 분석 
