@@ -8,6 +8,9 @@
 - language 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+
 ### **project History**
 1. [2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS)
 recognition을 이용한 품목별 택배 운송 패킹 전략 추천 서비스
