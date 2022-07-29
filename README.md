@@ -22,7 +22,7 @@ I have experience many project of AI development.
 
 ---
 ### **project History**
-1. [2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS)
+1. [2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS) #####<ML>
 recognition을 이용한 품목별 택배 운송 패킹 전략 추천 서비스
 
 
@@ -64,6 +64,9 @@ NLP기술을 이용해 묘사글로 실종자 찾기
 
 12. [2021_summer: SMU-KT AI project](https://github.com/00ssum/KT-SMU-AI-project)
 AI를 이용해 유기동물 실시간 모니터링 데이터베이스 구축 및 원인 분석 
-
+  
+<mark> dfsd </mark>
+  
+  
 13. [2021_summer: 공동 AI 경진 대회]
 AI를 이용한 심리 분석 모델 제작 
