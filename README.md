@@ -16,8 +16,7 @@
 
 ---
 ### **project History**
-1. **[2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS)    품목별 택배 패킹 전략 추천 서비스**![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/81895293/181753044-8c679291-0836-4654-a9cd-470ce636ff6b.png)
-
+1. **[2021_1: 인공지능기초](https://github.com/ChaeheePark/SMUS)    품목별 택배 패킹 전략 추천 서비스** ![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/81895293/181753191-6d861a76-88a2-48ae-9b1f-bf8c4e946bde.png)
 - object recognition, google Vision API  
     - : object recognition, size detection
 
