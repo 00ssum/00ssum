@@ -1,20 +1,19 @@
 
 # "Hello, world!" My name is **SSUM**:sparkling_heart:
-
 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀  I have experience many project of AI development.  Please Stay tuned for out latest updates!  Thank you for your time
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--------
+
+---
 # Tisory
-[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=just-talking-potato)](https://just-talking-potato.tistory.com/)
+This is my study✏ log blog. Click on Post Card to go to the link. (https://just-talking-potato.tistory.com/)  
+Content: AI, ML, DL, python, EDA....
+
+[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=just-talking-potato)](https://just-talking-potato.tistory.com/) <- Newest Post
 
 ---
 # **⚒ Skill**
-#### Language 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-#### Tools
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
-#### ML/ DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+#### Language   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+#### Tools  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+#### ML/ DL ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 # **paper**
@@ -86,15 +85,14 @@
     
  ---
  # **Competition**
- 1. **[여성 창업 경진 대회](https://github.com/ubeeni/sk_labs) 나이대별 맞춤 키오스크 서비스**
+ 1. **[2021_1: 여성 창업 경진 대회](https://github.com/ubeeni/sk_labs) 나이대별 맞춤 키오스크 서비스**
     
- 2. **[Medical HACK](https://github.com/FEKimseongeun/NoonSokMal) 청각장애인을 위한 수어 번역 어플**
+ 2. **[2021_summer: Medical HACK](https://github.com/FEKimseongeun/NoonSokMal) 청각장애인을 위한 수어 번역 어플**
  
  
- **3. [2021_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**  
+ 3. **[2022_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**  
     - Using Tech: Machine Learning, Deep Learning, EDA, Data Engineering  
     - 🎀MY ROLE: (developer) Machine Learning model
     
 ----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true)     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
