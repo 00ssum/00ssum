@@ -80,8 +80,9 @@
     - Using Tech: Object Detection, DataBase, Machine Learning, 
     - 🎀MY ROLE: (Leader) Machine Learning, CV, Object Detection
     
-    
-13. **[2021_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**
+ ---
+ # **Competition**
+ **[2021_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**
     - Using Tech: Machine Learning, Deep Learning, EDA, Data Engineering
     - 🎀MY ROLE: (developer) Machine Learning model
     
