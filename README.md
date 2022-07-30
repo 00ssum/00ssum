@@ -9,8 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)
 
-[![Solved.ac
-00ssum](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac.profile.00ssum](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 ---
