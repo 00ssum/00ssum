@@ -2,16 +2,10 @@
 # "Hello, world!" My name is **SSUM**:sparkling_heart:
 
 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀  I have experience many project of AI development.  Please Stay tuned for out latest updates!  Thank you for your time
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -------
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)
-
-[![Solved.ac
-00ssum](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-
+# Tisory
+[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=just-talking-potato)](https://just-talking-potato.tistory.com/)
 
 ---
 # **⚒ Skill**
@@ -92,7 +86,15 @@
     
  ---
  # **Competition**
- **[2021_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**  
+ 1. **[여성 창업 경진 대회](https://github.com/ubeeni/sk_labs) 나이대별 맞춤 키오스크 서비스**
+    
+ 2. **[Medical HACK](https://github.com/FEKimseongeun/NoonSokMal) 청각장애인을 위한 수어 번역 어플**
+ 
+ 
+ **3. [2021_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**  
     - Using Tech: Machine Learning, Deep Learning, EDA, Data Engineering  
     - 🎀MY ROLE: (developer) Machine Learning model
     
+----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)
