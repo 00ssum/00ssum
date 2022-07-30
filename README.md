@@ -4,8 +4,7 @@
 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀  I have experience many project of AI development.  Please Stay tuned for out latest updates!  Thank you for your time
 
 -------
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={just-talking-potato}&postId={insert_postId}&theme={antorini})](https://github.com/loosie/github-readme-tistory-card)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={just-talking-potato}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 ---
 # **⚒ Skill**
 #### Language 
