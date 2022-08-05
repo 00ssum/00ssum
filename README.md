@@ -90,7 +90,7 @@ Content: AI, ML, DL, python, EDA....
  2. **[2021_summer: Medical HACK](https://github.com/FEKimseongeun/NoonSokMal) 청각장애인을 위한 수어 번역 어플**
  
  
- 3. **[2022_summer: 공동 AI 경진 대회] AI를 이용한 심리 분석 모델 제작**  
+ 3. **[2022_summer: 공동 AI 경진 대회](https://github.com/skrudgur/dacon_team7) AI를 이용한 심리 분석 모델 제작**  
     - Using Tech: Machine Learning, Deep Learning, EDA, Data Engineering  
     - 🎀MY ROLE: (developer) Machine Learning model
     
