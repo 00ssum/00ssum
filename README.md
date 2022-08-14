@@ -95,4 +95,4 @@ Content: AI, ML, DL, python, EDA....
     - 🎀MY ROLE: (developer) Machine Learning model
     
 ----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
