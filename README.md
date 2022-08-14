@@ -7,7 +7,8 @@
 #### This is my study✏ log blog. Click on Post Card to go to the link. (https://just-talking-potato.tistory.com/)  
 Content: AI, ML, DL, python, EDA....
 
-[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=just-talking-potato)](https://just-talking-potato.tistory.com/) <- Newest Post
+[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=just-talking-potato)](https://just-talking-potato.tistory.com/) **⬅Click Here‼‼**
+(Newest Post) 
 
 ---
 # **⚒ Skill**
