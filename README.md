@@ -2,6 +2,7 @@
 # "Hello, world!" My name is **SSUM**:sparkling_heart:
 #### 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀  I have experience many project of AI development.  Please Stay tuned for out latest updates!  Thank you for your time
 
+---
 # Tisory
 #### This is my study✏ log blog. Click on Post Card to go to the link. (https://just-talking-potato.tistory.com/)  
 Content: AI, ML, DL, python, EDA....
