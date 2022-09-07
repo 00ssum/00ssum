@@ -2,7 +2,7 @@
 # "Hello, world!" My name is **SSUM**:sparkling_heart:
 #### 👋  Hi there! I'm AI developer skilled in CV, NLP, RecSys.🚀  I have experience many project of AI development.  Please Stay tuned for out latest updates!  Thank you for your time
 
-<img src="https://user-images.githubusercontent.com/81895293/188894475-214d82f9-2714-4eb7-94d0-347832a9d843.jpg" width="500" height="300"/> <img src="https://user-images.githubusercontent.com/81895293/188895801-9c5adcde-56d8-4e01-ae64-56ca492957fd.jpg" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/81895293/188894475-214d82f9-2714-4eb7-94d0-347832a9d843.jpg" width="400" height="300"/> <img src="https://user-images.githubusercontent.com/81895293/188895801-9c5adcde-56d8-4e01-ae64-56ca492957fd.jpg" width="400" height="300"/>
 
 ---
 # Tisory
