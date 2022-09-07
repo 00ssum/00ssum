@@ -24,6 +24,9 @@ Content: AI, ML, DL, python, EDA....
 청각 장애인을 위한 수어 영상-자연어 번역 서비스 및 모바일 어플리케이션 구현** 
 
     - 🎀MY ROLE: (project Leader) 제 1 저자
+**2022_summer:한국감성과학회 추계학술대회**
+
+**제로샷 학습 기반 영상 내 감성 레이블링 자동화 기법 연구**
 
 ---
 # **project History**
