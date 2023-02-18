@@ -2,8 +2,9 @@
 # Sunim Cho
 Hi, I'm Sumin. <br>
 I'm studying to become an ai developer. If you have any further questions about me or want to see my resume, please contact me. <br>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
 
+### 📧Contact
+<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
 --- 
 ## **📚Education**
 🎓 (now) Purdue University, Lafayette, IN, USA (2023.3~2023.07)
