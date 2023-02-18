@@ -1,11 +1,8 @@
 
 # Sunim Cho
-Hi, I'm Sumin. I'm studying to become an ai developer.
-If you have any further questions about me or want to see my resume, please contact me.
-<center>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
-</center>
+Hi, I'm Sumin. <br>
+I'm studying to become an ai developer. If you have any further questions about me or want to see my resume, please contact me. <br>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
 
 --- 
 ## **📚Education**
@@ -27,24 +24,21 @@ Language Processing, SW English 2<br>
 - Social Artificial Intelligence, Big Data Analysis, Capstone Design<br><br>
 
 ## **🤹🏻‍♀️Skill**
-- Language : ![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54)
+- Language : ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white) 
 ![](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) 
 ![](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 
 - Tools : 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white">
 ![](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
 ![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=&logo=mysql&logoColor=white)<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white">
 
-- ML library : ![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
-![](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+- ML library : ![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
 ---
 ## **📝Publication**
 [1] **Cho, Su-Min**, et al. **"Developing a mobile application serving sign-language 
