@@ -100,20 +100,3 @@ TERM|FIELD|TOPIC|Using Tech
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
-----
-FIELD|TERM|TOPIC|Using Tech
---|--|--|--
-CV|[2021_1](https://github.com/ChaeheePark/SMUS)|품목별 택배 패킹 전략 추천 서비스|Object Recognition,Detection, Google Vision API, Size Detection|
-CV|[2021_1](https://github.com/ubeeni/sk_labs)|나이대별 맞춤 키오스크 서비스|Facial semantic segmentation, classification
-CV|[2021_1](https://github.com/youngseo0526/FingerBeam)|카메라를 이용한 전자 필기 시스템|Object Detection, Server side develop
-EEG, BIO|[2021_1](https://github.com/Neural-Engineering/Cheezebang)|SSVEP와 ERP를 사용한 슈팅 게임|EEG, SSVEP, ERP Analysis
-CV|[2021_summer](https://github.com/youngseo0526/Ganchanah)|일상 사진을 고전 화가 화풍으로 변환 해주는 시스템|Cycle Gan, Google Vision API, Image Detection
-CV, NLP, Android|[2021_summer](https://github.com/FEKimseongeun/NoonSokMal)|청각장애인을 위한 수어 번역 어플|Google STT, Object Dectection, NLP, CRNN, NLP, Classification
-ML,Recsys|[2021_2](https://github.com/An-Byeong-Seon/machine_learning)|Random Forest를 이용한 당근마켓 중고가 추천| Machine Learning modeling, Crawling
-NLP|[2021_2](https://github.com/hyunjoolee201910828/NLP_teamproject)|묘사글로 실종자 찾기|Natural Language Processing, Corpus Build|
-NLP, CV|[2022_1](https://github.com/polyn0/Speech2Action)|대본을 이용해 Automatically 하게 action recognition task에 사용하는 Dataset를 얻는 시스템|Bert, S3D-G, Corpus Build
-CV|[2022_summer](https://github.com/00ssum/KT-SMU-AI-project)|AI를 이용해 유기동물 실시간 모니터링 데이터베이스 구축 및 원인 분석| Object Detection, DataBase, Machine Learning
-ML|[2022_summer](https://github.com/skrudgur/dacon_team7)|AI를 이용한 심리 분석 모델 제작-예선|Machine Learning modeling, Deep Learning modeling, EDA, Data Engineering
-CV, DL|[2022_2](https://github.com/skrudgur/dacon_team7)|간판-본선||||
-NLP, CV|2022_2|캡스톤 디자인 2|||🎀|
-<br>
