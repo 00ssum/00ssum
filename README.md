@@ -85,7 +85,7 @@ TERM|FIELD|TOPIC|Using Tech
 |2021_2|ML, Recsys|["Carrot Market" using Random Forest for price recommendation](https://github.com/An-Byeong-Seon/machine_learning)|Machine Learning, Crawling,Recsys
 |2021_2|NLP|[Searching for missing persons with descriptions](https://github.com/hyunjoolee201910828/NLP_teamproject)|Natural Language Processing, Corpus Build
 |2022_1|NLP, CV|[A system that automatically obtains datasets used for action recognition tasks using scripts](https://github.com/polyn0/Speech2Action)|Bert, S3D-G, Video Classification
-|2022_Summer|CV|[AI를 이용해 유기동물 실시간 모니터링 데이터베이스 구축 및 원인 분석](https://github.com/00ssum/KT-SMU-AI-project)|Object Detection,Search, DataBase
+|2022_Summer|CV|[Real-time abandoned dog monitoring and finding system using AI](https://github.com/00ssum/KT-SMU-AI-project)|Object Detection,Search, DataBase
 |2022_Summer|ML|[Create a psychological analysis model using AI](https://github.com/skrudgur/dacon_team7)|Machine Learning modeling, EDA, Data Engineering
 |2022_2|CV, DL, ML|[Korean signboard classification OCR model using AI](https://github.com/skrudgur/dacon_team7)|Object Recognition, OCR
 |2022_2|NLP, CV|[Investigating the Feasibility on the Automatic Labelling of Emotional Video using Cross-modal Information ](https://github.com/polyn0/Speech2Action)|Fine-tuning, Classification
