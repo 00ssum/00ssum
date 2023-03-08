@@ -91,7 +91,7 @@ TERM|FIELD|TOPIC|Using Tech
 |2022_2|NLP, CV|[Investigating the Feasibility on the Automatic Labelling of Emotional Video using Cross-modal Information ](https://github.com/polyn0/Speech2Action)|Fine-tuning, Classification
 <br>
 
-### 👤project
+### 👤Personal Project
 TERM|FIELD|TOPIC|Using Tech
 --|--|--|--
 |2021_2|BIO|[ Efficiency analysis model for face-to-face and non-face-to-face meetings using bio-signals](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals)|EEG, ECG, Bio-signal Analysis
