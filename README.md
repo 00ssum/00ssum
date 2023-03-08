@@ -88,15 +88,15 @@ TERM|FIELD|TOPIC|Using Tech
 |2022_Summer|CV|[AI를 이용해 유기동물 실시간 모니터링 데이터베이스 구축 및 원인 분석](https://github.com/00ssum/KT-SMU-AI-project)|Object Detection,Search, DataBase
 |2022_Summer|ML|[Create a psychological analysis model using AI](https://github.com/skrudgur/dacon_team7)|Machine Learning modeling, EDA, Data Engineering
 |2022_2|CV, DL, ML|[Korean signboard classification OCR model using AI](https://github.com/skrudgur/dacon_team7)|Object Recognition, OCR
-|2022_2|NLP, CV|[Investigating the Feasibility on the Automatic Labelling of Emotional Video using Cross-modal Information ](https://github.com/polyn0/Speech2Action)|
+|2022_2|NLP, CV|[Investigating the Feasibility on the Automatic Labelling of Emotional Video using Cross-modal Information ](https://github.com/polyn0/Speech2Action)|Fine-tuning, Classification
 <br>
 
 ### 👤project
 TERM|FIELD|TOPIC|Using Tech
 --|--|--|--
 |2021_2|BIO|[ Efficiency analysis model for face-to-face and non-face-to-face meetings using bio-signals](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals)|EEG, ECG, Bio-signal Analysis
-|2021_2|RL|[Learning with Opponent-Learning Awareness (LOLA)](https://github.com/00ssum/social-learning)|
-|2022_2|Big Data|[빅데이터를 활용한 노인 복지 불균형 완화]|R, data analysis|
+|2021_2|RL|Learning with Opponent-Learning Awareness (LOLA)| RL, m
+|2022_2|Big Data|Mitigation of senior welfare imbalance using big data|R, data analysis|
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  
