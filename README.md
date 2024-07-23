@@ -8,7 +8,10 @@ I'm studying to become an ai developer. If you have any further questions about 
 <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
 --- 
 ## **📚Education**
-🌟now🌟 🎓Purdue University, Lafayette, IN, USA (2023.3~2023.07)
+(NOW) 🎓Sungkyunkwan University
+- Department of Computer Science and Engineering
+
+🎓Purdue University, Lafayette, IN, USA (2023.3~2023.07)
 - Exchange Student
 
 🎓Sangmyung University, Seoul, Korea (2019.3~)
