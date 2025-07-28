@@ -4,9 +4,6 @@ Hi, I'm Sumin. <br>
 I'm studying to become an ai developer. If you have any further questions about me or want to see my resume, please contact me. <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 
-### 📧Contact
-<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
---- 
 ## **📚Education**
 (NOW) 🎓Sungkyunkwan University
 - Department of Computer Science and Engineering
@@ -17,8 +14,7 @@ I'm studying to become an ai developer. If you have any further questions about 
 🎓Sangmyung University, Seoul, Korea (2019.3~)
 - B.S in Human Centered AI
 - B.S in Applied Artificial Intelligence
-  
-🏫Seongnam Girls' High School, Seongnam, Korea (2016.3~2019.2)<br><br>
+
 ## **Related Courses**
 **2021**
 - Artificial Intelligence Basics, Deep Learning, Neuroscience, Computer 
