@@ -1,101 +1,131 @@
+# Hi, I'm Sumin Cho (조수민) 👋
 
-# *Sunim Cho*
-Hi, I'm Sumin. <br>
-I'm studying to become an ai developer. If you have any further questions about me or want to see my resume, please contact me. <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00ssum&count_bg=%23AAAAAA&title_bg=%23F39292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+**M.S. (Feb 2026) · Computer Vision · Domain Generalization · Efficient Deep Learning**
 
-## **📚Education**
-(NOW) 🎓Sungkyunkwan University
-- Department of Computer Science and Engineering
+I work on making vision models robust under distribution shift — and deploying them efficiently.  
+M.S. from SKKU (Feb 2026), looking toward robotic perception research.
 
-🎓Purdue University, Lafayette, IN, USA (2023.3~2023.07)
-- Exchange Student
-
-🎓Sangmyung University, Seoul, Korea (2019.3~)
-- B.S in Human Centered AI
-- B.S in Applied Artificial Intelligence
-
-## **Related Courses**
-**2021**
-- Artificial Intelligence Basics, Deep Learning, Neuroscience, Computer 
-Vision, Machine Learning, Pattern Recognition, AI Society and Ethics, Natural 
-Language Processing, SW English 2<br>
-
-**2022**
-- Social Artificial Intelligence, Big Data Analysis, Capstone Design<br><br>
-
-## **🤹🏻‍♀️Skill**
-- Language : ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white) 
-![](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) 
-![](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-
-- Tools : 
-![](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green) 
-![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
-![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=&logo=mysql&logoColor=white)<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white">
-
-- ML library : ![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
 ---
-## **📝Publication**
-[1] **Cho, Su-Min**, et al. **"Developing a mobile application serving sign-language 
-to text translation for the deaf."** Proceedings of the Korea Information Processing 
-Society Conference. Korea Information Processing Society, 2021.
 
-[2] **Cho, Su-Min**, et al. **“Investigating the Feasibility on the Automatic Labelling 
-of Emotional Video using Cross-modal Information.”** Proceedings of the Korea 
-Society for Emotion & Sensibilty Conference. Korea Society for Emotion & Sensibilty, 2021<br><br>
+## 🔬 Research Highlights
 
+| | |
+|---|---|
+| [**ICML 2025 Oral**](https://github.com/00ssum/GENIE) | GENIE: OSGR-guided optimizer for domain generalization — outperforms 9 optimizers across 5 DomainBed benchmarks, **+6.3%p on TerraIncognita**, 1.3× faster than SAM · [Patent KR 10-2025-0119985] |
+| **NAVER LABS**(Code Opening Soon) | D2C2: Training-free, structure-aware ViT channel compression — **≈60% FLOPs** while retaining **74.1% top-1** on ImageNet-1K (+40%p over competing training-free SOTA) |
+| **KCC 2025 Best Paper** | Train-free stochastic feature augmentation for CLIP test-time adaptation — outperforms TDA on 10-dataset benchmark, **+3.2%p** over TPT (ResNet-50) |
 
-## 🏆**Competition**
-TERM|COMPETITION|RANKING
---|--|--
-2021_1|Women Entrepreneurship Contest| **TOP 6**
-2021_1|SW Education Performance Convention (AI SW Contest)|-|
-2021_1|SW-PBL|-|
-2021_Summer|Medical HACK|-|
-2021_2|SW Education Performance Convention (AI SW Contest)|-|
-2021_2|SW-PBL|-|
-2022_Summer|SW-centered joint AI contest (preliminary contest)|**TOP 11**
-2022_Summer|Sangmyung AI Contest with KT|**🥇1st place**
-2022_2|SW-centered joint AI contest (final contest)|**TOP 26**
-2022_2|SW Talent Festival Excellent Work|**🥉3rd place**
-2022_2|Korean Emotional Science Society Fall Conference|**🥉3rd place**
-2022_2|Capstone Design Contest|**🥈2rd place**
+---
 
-<br><br>
+## 📄 Publications
 
+**[ICML 2025, Oral]** Cho S., Kim D., Kim K. *"One-Step Generalization Ratio Guided Optimization for Domain Generalization."* ICML 2025. 
 
-## **🖥️Project(R&D) Experience**
-### 👥Taam project
+**[KCC 2025, Outstanding Presentation Paper]** Cho S., et al. *"Train-Free Feature Augmentation for Test-Time Adaptation."* KCC 2025.
 
-TERM|FIELD|TOPIC|Using Tech
---|--|--|--
-|2021_1|CV|[Item-specific courier packing strategy recommedation system](https://github.com/ChaeheePark/SMUS)|Object Recognition, Recsys
-|2021_1|CV|[Kiosk service customized for each age group](https://github.com/ubeeni/sk_labs)|Facial semantic segmentation, Classification
-|2021_1|CV|[Electronic note-taking system using camera](https://github.com/youngseo0526/FingerBeam)|Object Detection, Server side develop
-|2021_1|BIO|[Shooting game using SSVEP and ERP](https://github.com/Neural-Engineering/Cheezebang)|EEG, SSVEP, ERP, bio data Analysis
-|2021_Summer|CV|[System that converts everyday photos into classic painter styles](https://github.com/youngseo0526/Ganchanah)|Cycle Gan, Image Detection
-|2021_Summer|CV, NLP, Android|[Sign Language Translation App for Deaf](https://github.com/FEKimseongeun/NoonSokMal)|CRNN, Video Classification, APP
-|2021_2|ML, Recsys|["Carrot Market" using Random Forest for price recommendation](https://github.com/An-Byeong-Seon/machine_learning)|Machine Learning, Crawling,Recsys
-|2021_2|NLP|[Searching for missing persons with descriptions](https://github.com/hyunjoolee201910828/NLP_teamproject)|Natural Language Processing, Corpus Build
-|2022_1|NLP, CV|[A system that automatically obtains datasets used for action recognition tasks using scripts](https://github.com/polyn0/Speech2Action)|Bert, S3D-G, Video Classification
-|2022_Summer|CV|[Real-time abandoned dog monitoring and finding system using AI](https://github.com/00ssum/KT-SMU-AI-project)|Object Detection,Search, DataBase
-|2022_Summer|ML|[Create a psychological analysis model using AI](https://github.com/skrudgur/dacon_team7)|Machine Learning modeling, EDA, Data Engineering
-|2022_2|CV, DL, ML|[Korean signboard classification OCR model using AI](https://github.com/skrudgur/dacon_team7)|Object Recognition, OCR
-|2022_2|NLP, CV|[Investigating the Feasibility on the Automatic Labelling of Emotional Video using Cross-modal Information ](https://github.com/polyn0/Speech2Action)|Fine-tuning, Classification
+**[IEEE AIMHC 2024]** Cho S., Park W., et al. *"Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification."* IEEE AIMHC 2024, pp. 181–184.
+
+**[KCC 2024]** Cho S., et al. *"Investigation of Generalization Performance Based on Data Quantity."* KCC 2024.
+
+**[KOSES 2022, Best Paper]** Cho S., Yang J. *"Exploring the Feasibility of Automatic Affective-Video Labeling Based on Cross-Modal Information."* KOSES Fall Conf. 2022.
+
+**[KIPS 2021]** Cho S., et al. *"Developing a Mobile Application Serving Sign-Language to Text Translation for the Deaf."* KIPS 2021.
+
+---
+
+## 💼 Experience
+
+- **Research Intern** · NAVER LABS, Robot Data Platform Team _(Nov 2025 – May 2026)_
+- **Graduate Researcher** · Applied AI Lab, SKKU · Advisor: Prof. Kwangsu Kim _(Mar 2024 – Feb 2026)_
+- **Research Intern** · Purdue University, Dept. of Computer & Information Technology · Advisor: Prof. Eric T. Matson _(Mar 2023 – Jun 2023)_
+- **Undergraduate Intern** · Human-Agent Decision-Making Lab, Sangmyung University _(Jun 2021 – Jun 2022)_
+
+---
+
+## 🏫 Education
+
+- **M.S.** Computer Science & Engineering · Sungkyunkwan University (SKKU) · GPA 4.21/4.5 _(Mar 2024 – Feb 2026)_
+- **B.S.** AI Convergence · Sangmyung University · GPA 3.96/4.5 _(Mar 2019 – Feb 2024)_
+
+---
+
+## 🏆 Awards & Patents
+
+- 🥇 Grand Prize (AI field), SKKU College of Computing Outstanding Research _(Jan 2026)_
+- 📄 Patent filed: OSGR-based optimization for DG · KR 10-2025-0119985 _(Aug 2025)_
+- 📋 Software Registration: C-2025-022212, C-2024-055271
+- 🏅 Outstanding Presentation Paper · KCC, KIISE _(Jul 2025)_
+- 🥈 2nd Place · Capstone Design Competition, Sangmyung University _(Feb 2023)_
+- 🥉 2nd Place · SW Talent Festival Outstanding Work · KOSMA _(Dec 2022)_
+- 🥇 1st Place · KT × Sangmyung AI Competition _(Sep 2022)_
+- 🏅 Best Paper Award · Korean Society for Emotion & Sensibility _(Oct 2022)_
+
+---
+
+## 🖥️ Projects & Competition History
+
+<details>
+<summary><b>Team Projects (2021–2022)</b> — click to expand</summary>
+
 <br>
 
-### 👤Personal Project
-TERM|FIELD|TOPIC|Using Tech
---|--|--|--
-|2021_2|BIO|[ Efficiency analysis model for face-to-face and non-face-to-face meetings using bio-signals](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals)|EEG, ECG, Bio-signal Analysis
-|2021_2|RL|Learning with Opponent-Learning Awareness (LOLA)| RL, m
-|2022_2|Big Data|Mitigation of senior welfare imbalance using big data|R, data analysis|
+| Term | Field | Project | Tech |
+|---|---|---|---|
+| 2021_1 | CV | [Item-specific courier packing strategy recommendation](https://github.com/ChaeheePark/SMUS) | Object Recognition, RecSys |
+| 2021_1 | CV | [Kiosk service customized for each age group](https://github.com/ubeeni/sk_labs) | Facial segmentation, Classification |
+| 2021_1 | CV | [Electronic note-taking system using camera](https://github.com/youngseo0526/FingerBeam) | Object Detection, Server |
+| 2021_1 | BIO | [Shooting game using SSVEP and ERP](https://github.com/Neural-Engineering/Cheezebang) | EEG, SSVEP, ERP |
+| 2021_Summer | CV | [Everyday photos → classic painter styles](https://github.com/youngseo0526/Ganchanah) | CycleGAN |
+| 2021_Summer | CV/NLP/Android | [Sign Language Translation App for the Deaf](https://github.com/FEKimseongeun/NoonSokMal) | CRNN, Video Classification |
+| 2021_2 | ML | [Carrot Market price recommendation](https://github.com/An-Byeong-Seon/machine_learning) | Random Forest, RecSys |
+| 2021_2 | NLP | [Missing persons search with descriptions](https://github.com/hyunjoolee201910828/NLP_teamproject) | NLP, Corpus |
+| 2022_1 | NLP/CV | [Auto action-recognition dataset from scripts](https://github.com/polyn0/Speech2Action) | BERT, S3D-G |
+| 2022_Summer | CV | [Real-time stray-dog monitoring system](https://github.com/00ssum/KT-SMU-AI-project) | Object Detection, DB |
+| 2022_Summer | ML | [Psychological profile prediction model](https://github.com/skrudgur/dacon_team7) | ML modeling, EDA |
+| 2022_2 | CV/DL | [Korean signboard OCR classification](https://github.com/skrudgur/dacon_team7) | OCR, Object Recognition |
+| 2022_2 | NLP/CV | [Cross-modal affective video auto-labeling](https://github.com/polyn0/Speech2Action) | Fine-tuning, Classification |
+
+</details>
+
+<details>
+<summary><b>Personal Projects</b> — click to expand</summary>
+
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ssum&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ssum&layout=compact)](https://github.com/00ssum/github-readme-stats)  
+| Term | Field | Project | Tech |
+|---|---|---|---|
+| 2021_2 | BIO | [Bio-signal efficiency analysis for meetings](https://github.com/00ssum/Efficiency-analysis-model-using-bio-signals) | EEG, ECG |
+| 2021_2 | RL | Learning with Opponent-Learning Awareness (LOLA) | RL |
+| 2022_2 | Big Data | Mitigation of senior welfare imbalance using big data | R, Data Analysis |
+
+</details>
+
+<details>
+<summary><b>Full Competition History</b> — click to expand</summary>
+
+<br>
+
+| Term | Competition | Result |
+|---|---|---|
+| 2021_1 | Women Entrepreneurship Contest | **TOP 6** |
+| 2021_1 | SW Education Performance Convention (AI SW Contest) | — |
+| 2021_1 | SW-PBL | — |
+| 2021_Summer | Medical HACK | — |
+| 2021_2 | SW Education Performance Convention (AI SW Contest) | — |
+| 2021_2 | SW-PBL | — |
+| 2022_Summer | SW-centered Joint AI Contest (Preliminary) | **TOP 11** |
+| 2022_Summer | Sangmyung AI Contest with KT | **🥇 1st Place** |
+| 2022_2 | SW-centered Joint AI Contest (Final) | **TOP 26** |
+| 2022_2 | SW Talent Festival Outstanding Work | **🥉 2nd Place** |
+| 2022_2 | Korean Emotional Science Society Fall Conference | **Best Paper** |
+| 2022_2 | Capstone Design Contest | **🥈 2nd Place** |
+
+</details>
+
+---
+
+## 📫 Contact
+
+- Email: 00ssummail@gmail.com , jsm3626@naver.com
+- [Google Scholar](https://scholar.google.com/citations?hl=ko&user=CeXzvFwAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/sumin-cho-46a01226b/)
